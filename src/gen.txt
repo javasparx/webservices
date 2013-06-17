@@ -1,0 +1,7 @@
+(Windows)
+%AXIS2_HOME%\bin\java2wsdl -cp . -cn 
+samples.quickstart.service.pojo.StockQuoteService -of StockQuoteService.wsdl
+
+(Linux)
+$AXIS2_HOME/bin/java2wsdl -cp . -cn 
+samples.quickstart.service.pojo.StockQuoteService -of StockQuoteService.wsdl

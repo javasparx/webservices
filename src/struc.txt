@@ -1,0 +1,9 @@
+- StockQuoteService
+   - META-INF
+     - services.xml
+   - lib
+   - samples
+     - quickstart
+       - service
+         - pojo
+           - StockQuoteService.class
